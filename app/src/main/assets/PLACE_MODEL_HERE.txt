@@ -1,0 +1,10 @@
+This folder should contain the TensorFlow Lite model file for face recognition.
+
+Please download `mobile_face_net.tflite` and place it in this directory.
+
+Filename: mobile_face_net.tflite
+Location: app/src/main/assets/mobile_face_net.tflite
+
+You can find the model here:
+https://github.com/shubham0204/Face-Recognition-TFLite-Android/blob/master/app/src/main/assets/mobile_face_net.tflite
+

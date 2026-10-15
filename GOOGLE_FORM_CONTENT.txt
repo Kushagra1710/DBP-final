@@ -1,0 +1,38 @@
+Title: DBPCheckin Account Deletion Request
+Description: Use this form to request the permanent deletion of your account and all associated data (including personal info, face data, and attendance logs) from the DBPCheckin system.
+
+---
+
+Question 1:
+Label: Full Name
+Type: Short Answer
+Required: Yes
+
+Question 2:
+Label: Registered Email Address
+Type: Short Answer
+Required: Yes
+Validation: Email
+
+Question 3:
+Label: Phone Number
+Type: Short Answer
+Required: Yes
+
+Question 4:
+Label: Department / Group Name
+Type: Short Answer
+Required: No
+
+Question 5:
+Label: Reason for Deletion
+Type: Paragraph
+Required: No
+
+Question 6:
+Label: Confirmation
+Type: Checkboxes
+Required: Yes
+Options:
+[ ] I understand that this action is permanent and cannot be undone. My attendance history and profile will be permanently removed.
+

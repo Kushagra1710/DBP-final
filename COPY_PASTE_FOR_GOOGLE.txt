@@ -1,0 +1,9 @@
+Admin Creds:
+User: [INSERT_ADMIN_EMAIL]
+Pass: [INSERT_ADMIN_PASS]
+
+1. Login Admin > Manage Departments > Create 'Test Group'. CRITICAL: UNCHECK 'Location Restricted' to allow remote testing.
+2. Logout > Sign Up. Take REAL selfie (required for face match). Select 'Test Group'.
+3. Login Admin > Pending Requests > Approve user.
+4. Login User > Mark Attendance. Face & Location will pass.
+5. Test Supervisor: Login Admin > Create group 'Block Coordinator'. Add user to it. Login User > View Block Attendance.

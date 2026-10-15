@@ -1,0 +1,33 @@
+{
+  "project_info": {
+
+    "project_number": "940457174884",
+    "project_id": "attendiy-d217b",
+    "storage_bucket": "attendiy-d217b.firebasestorage.app"
+
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940457174884:android:80c1614f79f54760e63c71",
+        "android_client_info": {
+          "package_name": "com.dbpsecurity.attendify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMrfxjs6PbVn5btuvdV087-iXlk0k3pFc"
+
+
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
